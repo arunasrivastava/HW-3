@@ -1,0 +1,30 @@
+#information {
+    position:absolute;
+    background-color:darkseagreen;
+    border: 1px solid white;
+    margin:10px 0px 30px 2.5%;
+    border-radius: 10px;
+    width:40%;
+}
+#finalList{
+    position:absolute;
+    left:45%;
+    background-color:rgb(133, 169, 179);
+    border: 1px solid white;
+    border-radius: 10px;
+    margin:10px 0px 30px 2.5%;
+    width:40%;
+}
+input[type=text], select, textarea {
+    position: absolute;
+    left: 30%;
+    border-radius: 5px;
+    padding: 1%;
+}
+input[type=submit] {
+    border-color:rgb(89, 140, 182);
+    border-radius: 5px;
+    padding: 2% 5%;
+    background-color: white;
+    font-size: 18px;
+}
